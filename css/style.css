@@ -1,0 +1,120 @@
+
+.te{
+    font-size: 30px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.butttt{
+width: 160px;
+height: 60px;
+margin-left: -20px;
+border-radius: none;
+}
+.brt{
+    width: 300px;
+    height: 60px; 
+    border-radius: none;
+}
+.hov:hover{
+    color: blue;
+}
+.tex{
+    animation-delay: 0.2s;
+    background-color: aquamarine;
+padding: 5px 10px;
+border-radius: 3px;
+}
+.hhh{
+animation-delay: 0.4s;
+font-size: 50px;
+color: #04247a;
+}
+.po{
+    animation-delay: 0.6s;
+    font-size: 25px; 
+    color: #04247a;
+}
+.coo{
+    margin-left: 100px; 
+}
+.inp{
+   
+    height: 70px;
+}
+
+.ola{
+    text-align: center;
+}
+.ppppp{
+    font-size: 20px;
+}
+.imge{
+    width: 70px;
+    height: 70px;
+}
+
+.da{
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Vollkorn', serif;
+    cursor: pointer;
+}
+.ke{
+    text-align: center;
+    font-size: 20px;
+}
+.tit{
+    margin-left: 100px;
+    font-family: 'Vollkorn', serif;
+    font-size: 35px;
+}
+.opp{
+    font-size: 20px;
+    margin-left: 100px;
+    color: #041735;
+}
+.opp1{
+    margin-left: 100px;
+    font-size: 17px;
+}
+.baa:hover{
+    border-radius: 1px solid blue;
+    background-color: #04247a;
+    color: blue;
+}
+.mene{
+    width: 600px;
+    height: 450px;
+}
+.accordion{
+    width: 450px;
+}
+.ds{
+    margin-left: 60px;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left:0;
+    bottom: 0;
+    opacity: 0;
+    right: 0;
+    transition: opacity 0.4s ease-in-out;
+    background: black;
+    cursor: pointer;
+}
+.content{
+    position: absolute;
+    margin-top: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: center;
+}
+.cor:hover{
+    opacity: 0.8;
+}
+.overlay:hover{
+    opacity: 0.8;
+}
